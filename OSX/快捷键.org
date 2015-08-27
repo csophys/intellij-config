@@ -1,0 +1,60 @@
+* Ace jump
+1. acejumpChar Alt+J
+2. acejumpSelect Alt+SHIFT+J
+* Git
+1. pull ALT+SHIFT+CTRL+P
+2. revert ALT+SHIFT+CTRL+V
+3. commit  ALT+SHIFT+CTRL+C
+4. resolve conflict ALT+SHIFT+CTRL+R
+* Intellij【emacs】
+[refator prefix] CTRL+ALT
+1. 智能提示 ALT+ENTER
+2. 单词补全 ALT+/
+3. 优化包导入 ALT+CTRL+O
+4. 代码格式化 ALT+CTRL+L
+5. 最近更改的动作 Alt+Shift+C
+6. 查找类中的方法或变量 Ctrl+Shift+Alt+N
+7. 重构-重命名 Shift+F6
+8. 显示类结构图 Ctrl+H
+9. 打开或者关闭相应面板 ALT+number
+10. 返回至上次浏览的位置 Ctrl+Alt+left/right
+11. 返回上次编辑的地方 CTRL+SHIFT+DELETE
+12. 切换代码视图 Alt+ left/right
+13. 在方法间快速移动定位 Alt+ Up/Down
+14. 代码向上/下移动 Alt+Shift+Up/Down
+15. 代码实现 ALT+CTRL+D
+16. 代码接口 ALT+CTRL+B
+17. 代码编辑区域最大化 CTRL+SHIFT+F12
+18. 代码注释 CTRL+SHIFT+/
+19. 新建文件 COMMAND+N
+20. 搜索Action CTRL+SHIFT+A
+21. 搜索Class CTRL+SHIFT+C
+22. 搜索符号 CTRL+SHIFT+ALT+N
+23. 生成代码 CTRL+ALT+I CTRL+ALT+G
+24. surround With CTRL+ALT+S
+25. 变更方法签名 COMMAND+F6
+26. surroundWith code CTRL+ALT+T
+27. 选择运行的内容 ALT+SHIFT+F9
+28. code block start CTRL+ALT+F
+29. code block end CTRL+END+B
+30. find in path ALT+SHIFT+F
+31. 智能块选择 COMMAND+SHIFT+W
+32. 抽取变量 CTRL+ALT+V
+33. 抽取方法 CTRL+ALT+M
+34. 抽取常量 CTRL+ALT+C
+35. 抽取参数 CTRL+ALT+P
+36. 选择当前行 CMD+SHIFT+S
+37. 方法的outLine CTRL+F12
+38. 删除当前行 CTRL+L
+39. 赋值当前行 CTRL+C
+40. 增量选择 CMD+S
+41. 增量查找修改 CMD+G
+42. 查找 ALT+R
+43. 方法签名重构 CMD+F6
+44. 查看一个类的子类继承关系 CTRL+H
+45. 查看一个类的参数关系 CMD+P
+46. 本类中查找方法和变量 CTRL+F12
+47. 转换大小写 CTRL+SHIFT+U
+48. 列操作 按住Alt，鼠标拖动一列 CTRL+SHIFT+N CTRL+SHIFT+P
+49. 安全删除类，方法，属性 Commond+Delete
+* 文本编辑
