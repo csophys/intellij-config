@@ -1,0 +1,29 @@
+* Ace jump
+1. acejumpChar Alt+J
+2. acejumpSelect Alt+SHIFT+J
+* Git
+1. pull ALT+SHIFT+CTRL+P 
+2. revert ALT+SHIFT+CTRL+R
+3. commit  ALT+SHIFT+CTRL+C
+* Intellij 
+[refator prefix] CTRL+ALT
+1. 智能提示 ALT+ENTER
+2. 单词补全 ALT+/
+3. 优化包导入 ALT+CTRL+O
+4. 代码格式化 ALT+CTRL+L
+5. 最近更改的代码 Alt+Shift+C 
+6. 查找类中的方法或变量 Ctrl+Shift+Alt+N 
+7. 重构-重命名 Shift+F6  
+8. 显示类结构图 Ctrl+H
+9. 打开或者关闭相应面板 ALT+number
+10. 返回至上次浏览的位置 Ctrl+Alt+left/right 
+11. 切换代码视图 Alt+ left/right 
+12. 在方法间快速移动定位 Alt+ Up/Down 
+13. 代码向上/下移动 Alt+Shift+Up/Down 
+14. 代码实现 ALT+CTRL+D
+15. 代码接口 ALT+CTRL+B
+16. 代码编辑区域最大化 CTRL+SHIFT+F12
+17. 代码注释 CTRL+SHIFT+/
+* 文本编辑
+参考Emacs
+
